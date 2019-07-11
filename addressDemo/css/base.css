@@ -1,0 +1,35 @@
+body {
+  background-color: #fafafa; }
+
+body, a, input, textarea, button, select {
+  font-size: 12px;
+  color: #666; }
+
+input, textarea {
+  border-radius: 0; }
+
+.setChe, .setDefChe {
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-right: .1rem;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  display: inline-block;
+  background-color: transparent;
+  border-radius: 0;
+  background-size: contain; }
+
+.setChe {
+  width: .36rem;
+  height: .36rem; }
+
+.setDefChe {
+  width: .4rem;
+  height: .4rem;
+  background-color: #fff;
+  box-sizing: border-box; }
+
+[v-cloak] {
+  display: none !important; }
+
+/*# sourceMappingURL=base.css.map */
